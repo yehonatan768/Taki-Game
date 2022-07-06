@@ -19,10 +19,9 @@ need to be fixed. There is a feature available that when a player has only 1 pos
 - Graphics update
 
 
-# Installation
+# Installation & Run Instractions
 Donwload all the files in the same directory
 
-# Run
 To run the program follow the steps below
 - Open the main file when all the files you download are
 - Verify that the IP in the "Server" and "Const_params" files
