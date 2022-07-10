@@ -19,7 +19,6 @@ need to be fixed. There is a feature available that when a player has only 1 pos
 - Graphics update
 - Room chat
 - Music selection
-- Play against AI
 
 
 # Installation & Run Instructions
