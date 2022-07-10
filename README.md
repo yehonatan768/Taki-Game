@@ -17,6 +17,9 @@ need to be fixed. There is a feature available that when a player has only 1 pos
 - Fixing the bugs
 - Better cards spread(it will spread evenlly in 1 page)
 - Graphics update
+- Room chat
+- Music selection
+- Play against AI
 
 
 # Installation & Run Instructions
