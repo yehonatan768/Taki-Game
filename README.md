@@ -19,7 +19,7 @@ need to be fixed. There is a feature available that when a player has only 1 pos
 - Graphics update
 
 
-# Installation & Run Instractions
+# Installation & Run Instructions
 Donwload all the files in the same directory
 
 To run the program follow the steps below
