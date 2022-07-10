@@ -23,7 +23,7 @@ need to be fixed. There is a feature available that when a player has only 1 pos
 Donwload all the files in the same directory
 
 To run the program follow the steps below
-- Open the main file when all the files you download are
+- Open the main file
 - Verify that the IP in the "Server" and "Const_params" files
 - Run the "run_server" file
 - Run the "run" file
